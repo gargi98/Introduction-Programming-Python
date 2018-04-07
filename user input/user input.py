@@ -2,3 +2,7 @@
 
 yourName=input("What is your name?")
 print(yourName)
+
+#input() always returns string
+
+
